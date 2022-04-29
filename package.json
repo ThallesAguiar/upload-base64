@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "scanner-js": "^2.10.3"
+  }
+}
